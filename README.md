@@ -37,3 +37,5 @@ You can easily modify your display data via the `discordlarp.config.json` file:
 }
 
 
+## 📺 Video Tutorial
+[![Watch the video](https://img.youtube.com/vi/2jvA5fkC4GU/0.jpg)](https://www.youtube.com/watch?v=2jvA5fkC4GU)
