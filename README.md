@@ -1,9 +1,11 @@
-# discord-larp
-Free and Advanced BetterDiscord plugin to customize usernames and inject profile badges. 100% Free to use!
-
 # 🛡️ Discord LARP Plugin
 
-An advanced, stable, and obfuscated **BetterDiscord** plugin designed to customize your client-side profile with custom usernames, display names, and badges.
+An advanced, stable, and obfuscated **BetterDiscord** plugin designed to customize your client-side profile with custom usernames, display names, and badges. **100% Free to use!**
+
+---
+
+## 📺 Video Tutorial
+[![Watch the video](https://img.youtube.com/vi/2jvA5fkC4GU/0.jpg)](https://www.youtube.com/watch?v=2jvA5fkC4GU)
 
 ---
 
@@ -11,7 +13,7 @@ An advanced, stable, and obfuscated **BetterDiscord** plugin designed to customi
 
 - **Custom Identity:** Change your username, global name, and User ID locally.
 - **Badge Injection:** Automatically adds badges like **Discord Nitro**, **Server Booster**, and **Active Developer** to your profile.
-- **High Stability:** Built-in delay system and junk code injection to ensure zero "Yellow Screen" errors and maximum compatibility.
+- **High Stability:** Built-in delay system and junk code injection to ensure zero "Yellow Screen" errors.
 - **Security:** Multi-layer string obfuscation to protect the source logic.
 
 ## 📥 Installation
@@ -35,7 +37,3 @@ You can easily modify your display data via the `discordlarp.config.json` file:
     "userID": "1421243203738140803"
   }
 }
-
-
-## 📺 Video Tutorial
-[![Watch the video](https://img.youtube.com/vi/2jvA5fkC4GU/0.jpg)](https://www.youtube.com/watch?v=2jvA5fkC4GU)
