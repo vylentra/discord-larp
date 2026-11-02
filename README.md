@@ -37,3 +37,9 @@ You can easily modify your display data via the `discordlarp.config.json` file:
     "userID": "1421243203738140803"
   }
 }
+
+---
+
+## Contributing
+
+Contributions, bug reports, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vylentra/discord-larp/issues) or submit a Pull Request.
